@@ -82,7 +82,7 @@ const ContactUs = () => {
             <Instagram size={24} />
           </a>
           <a
-            href="https://www.linkedin.com/in/amit-kumar-070b3a231/"
+            href="https://www.linkedin.com/in/akashdeepsingh03 "
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-600 hover:text-blue-700"
@@ -90,7 +90,7 @@ const ContactUs = () => {
             <Linkedin size={24} />
           </a>
           <a
-            href="https://github.com/ARBhanu"
+            href="https://github.com/Ak4shdeep"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-600 hover:text-black"
@@ -98,7 +98,7 @@ const ContactUs = () => {
             <Github size={24} />
           </a>
           <a
-            href="https://wa.me/918901089129"
+            href="https://wa.me/9592910116"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-600 hover:text-green-500"
@@ -106,7 +106,7 @@ const ContactUs = () => {
             <MessageCircle size={24} />
           </a>
           <a
-            href="https://wa.me/919636480399"
+            href="https://wa.me/9592910116"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-600 hover:text-green-500"
